@@ -1,0 +1,5 @@
+pip==23.3.2
+edit_distance==1.0.6
+jiwer==3.0.3
+librosa==0.10.0
+soundfile==0.12.1
