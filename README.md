@@ -1,5 +1,6 @@
 ## Demo
-[Coming Soon...]()
+[Bhojpuri](https://bhashini.gov.in/ulca/search-model/67eb8f9a7d193a1beb4b86c5)
+
 
 ## Models
 
@@ -12,7 +13,7 @@ data2vec-aqc | --- | Bhojpuri | [fairseq](https://huggingface.co/SpireLab/RESPIN
 
 * finetuning procedures can be found [here](https://github.com/labspire/RESPIN/tree/main/recipes/Training).
 * Inference procedures can be found [here](https://github.com/labspire/RESPIN/tree/main/recipes/Inference).
-<!-- * Single file inference procedures can be found [here]() -->
+* Single file inference procedures can be found [here](https://github.com/labspire/RESPIN/tree/main/recipes/Single_File_Infer)
 
 ## Directory Structure
 ```
